@@ -2,6 +2,7 @@
 I'm a student pursuing bachelor of computer science degree at Bina Nusantara University.
 
 # 🤡📈
+Clown Stonks
 
 ### Contacts:
 [<img align="left" alt="Cornelius Tantius | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
