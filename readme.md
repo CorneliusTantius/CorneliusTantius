@@ -11,7 +11,7 @@
 [<img align="left" alt="Cornelius Tantius | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
 [<img align="left" alt="Cornelius Tantius | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
-\
+<br />
 
 ### Github Stats:
 <img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CorneliusTantius&show_icons=true&theme=dracula" />
