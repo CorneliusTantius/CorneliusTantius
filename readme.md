@@ -2,7 +2,7 @@
 
 ## I'm a student pursuing bachelor of computer science degree at Bina Nusantara University.
 
-🤡📈
+# 🤡📈
 
 ### Contacts:
 [<img align="left" alt="Cornelius Tantius | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][mail]
