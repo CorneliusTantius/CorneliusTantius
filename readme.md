@@ -22,5 +22,5 @@ Clown Stonks
 
 [mail]: mailto:corneliustantius.ct@gmail.com
 [linkedin]: https://www.linkedin.com/in/corneliustantius/
-[telegram]: https://t.me/evilhamburger
+[telegram]: https://t.me/dinosaucerus/
 [instagram]: https://www.instagram.com/corneliustantius/
