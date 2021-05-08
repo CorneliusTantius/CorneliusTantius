@@ -1,5 +1,6 @@
 # Hi There, I'm Cornelius Tantius! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a student pursuing bachelor of computer science degree at Bina Nusantara University.
+I'm a student pursuing bachelor of computer science degree at Bina Nusantara University. 
+Most of the project should be in python due to the ease of use ._.
 
 # 🤡📈
 Clown Stonks
