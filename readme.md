@@ -3,7 +3,7 @@ I'm a student pursuing bachelor of computer science degree at Bina Nusantara Uni
 Most of the project should be in python due to the ease of use ._.
 
 # 🤡📈
-Clown Stonks
+Clown Stonks ehe
 
 ### Contacts:
 [<img align="left" alt="Cornelius Tantius | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
