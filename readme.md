@@ -1,6 +1,6 @@
 # Hi There, Cornel Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Software Engineer [@Traveloka](https://www.traveloka.com/en-id)
-<br
+<br/>
 Computer Science Graduate (AI) [@Binus University](https://binus.ac.id/)
 
 
