@@ -1,10 +1,11 @@
 # Hi There, I'm Cornelius Tantius! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Software Engineer [@Traveloka](https://www.traveloka.com/en-id)
+<br
 Computer Science Graduate (AI) [@Binus University](https://binus.ac.id/)
 
 
 # 🤡📈
-Clown Stonks ehe
+Clown Stonks
 
 ### Contacts:
 [<img align="left" alt="Cornelius Tantius | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
