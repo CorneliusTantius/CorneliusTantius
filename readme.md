@@ -1,7 +1,7 @@
 # Hi There, I'm Cornelius Tantius! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a student pursuing bachelor of computer science degree at Bina Nusantara University. Currently Like to play around with back-end and microservices stuff. 
+Software Engineer [@Traveloka](https://www.traveloka.com/en-id)
+Computer Science Graduate (AI) [@Binus University](https://binus.ac.id/)
 
-Check out https://corneliustantius.vercel.app/
 
 # 🤡📈
 Clown Stonks ehe
