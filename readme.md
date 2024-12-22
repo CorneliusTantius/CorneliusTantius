@@ -2,8 +2,7 @@
 Software Engineer [@Traveloka](https://www.traveloka.com/en-id)
 <br/>
 Computer Science Graduate (AI) [@Binus University](https://binus.ac.id/)
-
-### 🤡📈 => Clown Stonks
+🤡📈 => Clown Stonks
 
 ### Contacts:
 [<img align="left" alt="Cornelius Tantius | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
@@ -11,6 +10,8 @@ Computer Science Graduate (AI) [@Binus University](https://binus.ac.id/)
 [<img align="left" alt="Cornelius Tantius | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
 [<img align="left" alt="Cornelius Tantius | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
+<br />
+<hr />
 <br />
 <div style="display:flex; justify-content:start;"> 
   <img alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CorneliusTantius&show_icons=true&theme=dracula" height="120" style="margin:8px"/>
