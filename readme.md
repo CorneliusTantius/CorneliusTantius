@@ -15,10 +15,9 @@ Clown Stonks
 
 <br />
 
-### Github Stats:
-<img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CorneliusTantius&show_icons=true&theme=dracula" width="42"/>
+<img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CorneliusTantius&show_icons=true&theme=dracula" width="120"/>
 
-<img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustantius&layout=compact&theme=dracula" width="42"/>
+<img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustantius&layout=compact&theme=dracula" width="120"/>
 
 
 [mail]: mailto:corneliustantius.ct@gmail.com
