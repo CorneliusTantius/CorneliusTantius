@@ -12,7 +12,7 @@ Computer Science Graduate (AI) [@Binus University](https://binus.ac.id/)
 [<img align="left" alt="Cornelius Tantius | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
 <br />
-<div style="display:flex"> 
+<div style="display:flex; justify-content:start;"> 
   <img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CorneliusTantius&show_icons=true&theme=dracula" height="120" style="margin:8px"/>
   <img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustantius&layout=compact&theme=dracula" height="120" style="margin:8px"/>
 </div>
