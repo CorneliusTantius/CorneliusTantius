@@ -13,8 +13,8 @@ Computer Science Graduate (AI) [@Binus University](https://binus.ac.id/)
 
 <br />
 <div style="display:flex; justify-content:start;"> 
-  <img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CorneliusTantius&show_icons=true&theme=dracula" height="120" style="margin:8px"/>
-  <img align="center" alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustantius&layout=compact&theme=dracula" height="120" style="margin:8px"/>
+  <img alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CorneliusTantius&show_icons=true&theme=dracula" height="120" style="margin:8px"/>
+  <img alt="Cornelius Tantius's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustantius&layout=compact&theme=dracula" height="120" style="margin:8px"/>
 </div>
 
 [mail]: mailto:corneliustantius.ct@gmail.com
