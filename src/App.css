@@ -57,12 +57,159 @@
 
 .ascii-art {
   color: #89b4fa;
-  font-size: 10px;
+  font-size: 14px;
   line-height: 1.1;
-  margin: 0 0 24px;
-  text-shadow: 0 0 10px rgba(137, 180, 250, 0.3);
+  margin: 0 0 16px;
   white-space: pre;
-  overflow-x: auto;
+  overflow-x: visible;
+  font-family: monospace;
+}
+
+.terminal-body {
+  padding: 24px;
+  flex: 1;
+  background: linear-gradient(180deg, #1e1e2e 0%, #181825 100%);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.hero-section {
+  margin-bottom: 24px;
+}
+
+.hero-info {
+  color: #cdd6f4;
+  font-family: var(--mono);
+}
+
+.hero-title {
+  font-size: 14px;
+  color: #a6e3a1;
+  margin: 0 0 12px;
+}
+
+.hero-bio {
+  font-size: 14px;
+  color: #cdd6f4;
+  margin: 0 0 16px;
+  line-height: 1.5;
+}
+
+.hero-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.skill-tag {
+  background: #313244;
+  color: #89b4fa;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.section-title {
+  color: #fab387;
+  font-size: 18px;
+  margin: 0 0 16px;
+  font-weight: normal;
+}
+
+.experience-section,
+.award-section {
+  margin-bottom: 24px;
+}
+
+.experience-list,
+.award-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.experience-item,
+.award-item {
+  background: #181825;
+  padding: 16px;
+  border-radius: 8px;
+  border-left: 3px solid #89b4fa;
+}
+
+.award-item {
+  border-left-color: #f9e2af;
+}
+
+.experience-header,
+.award-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.company,
+.award-title {
+  color: #f38ba8;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.award-title {
+  color: #f9e2af;
+}
+
+.period,
+.award-year {
+  color: #6c7086;
+  font-size: 14px;
+}
+
+.role {
+  color: #a6e3a1;
+  font-size: 14px;
+  margin: 0 0 8px;
+}
+
+.description,
+.award-description {
+  color: #cdd6f4;
+  font-size: 13px;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.language-section {
+  margin-bottom: 24px;
+}
+
+.skills-section {
+  margin-bottom: 32px;
+}
+
+.language-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.language-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: #181825;
+  border-radius: 4px;
+}
+
+.language-name {
+  color: #cdd6f4;
+  font-size: 14px;
+}
+
+.language-level {
+  color: #a6e3a1;
+  font-size: 14px;
 }
 
 .terminal-prompt {
