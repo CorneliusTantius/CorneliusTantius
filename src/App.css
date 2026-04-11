@@ -59,10 +59,65 @@
   color: #89b4fa;
   font-size: 14px;
   line-height: 1.1;
-  margin: 0 0 16px;
+  margin: 0;
   white-space: pre;
   overflow-x: visible;
   font-family: monospace;
+}
+
+.ascii-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+}
+
+.ascii-art-1,
+.ascii-art-2 {
+  color: #89b4fa;
+  font-size: 14px;
+  line-height: 1.1;
+  white-space: pre;
+  overflow-x: visible;
+  font-family: monospace;
+}
+
+/* Mobile: stacked vertically */
+@media (max-width: 768px) {
+  .ascii-container {
+    flex-direction: column;
+  }
+  
+  .ascii-art-1,
+  .ascii-art-2 {
+    font-size: 10px;
+    margin-bottom: 16px;
+  }
+
+  .hero-info,
+  .hero-title,
+  .hero-bio,
+  .section-title,
+  .company,
+  .role,
+  .description,
+  .award-title,
+  .award-description,
+  .language-name,
+  .language-level,
+  .skill-tag,
+  .terminal-prompt,
+  .period,
+  .award-year {
+    font-size: 12px;
+  }
+}
+
+/* Desktop: side by side */
+@media (min-width: 769px) {
+  .ascii-art-1 {
+    margin-right: 24px;
+    margin-bottom: 16px;
+  }
 }
 
 .terminal-body {
