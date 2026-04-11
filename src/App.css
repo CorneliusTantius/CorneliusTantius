@@ -161,6 +161,30 @@
   margin-bottom: 24px;
 }
 
+.social-links {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: #313244;
+  color: #89b4fa;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.social-btn:hover {
+  background: #45475a;
+  transform: translateY(-2px);
+}
+
 .hero-info {
   color: #cdd6f4;
   font-family: var(--mono);

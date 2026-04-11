@@ -1,4 +1,5 @@
 import './App.css'
+import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa'
 
 function App() {
   const asciiArt1 = `
@@ -20,7 +21,12 @@ function App() {
     name: "Tantius Cornelius",
     title: "Full Stack Developer",
     bio: "Software Engineer experienced in building backend services and production systems across education, consulting, fintech, and travel sectors. Skilled in backend development, API integration, system reliability, and well versed developing with AI bsed tools.",
-    skills: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "Docker"]
+    skills: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "Docker"],
+    social: {
+      email: "corneliustantius.ct@gmail.com",
+      linkedin: "https://linkedin.com/in/corneliustantius",
+      github: "https://github.com/corneliustantius"
+    }
   }
 
   const workExperience = [
@@ -122,6 +128,17 @@ function App() {
           <div className="hero-info">
             <p className="hero-title">{heroContent.title}</p>
             <p className="hero-bio">{heroContent.bio}</p>
+          </div>
+          <div className="social-links">
+            <a href={`mailto:${heroContent.social.email}`} className="social-btn" title="Email">
+              <FaEnvelope size={20} />
+            </a>
+            <a href={heroContent.social.linkedin} target="_blank" rel="noopener noreferrer" className="social-btn" title="LinkedIn">
+              <FaLinkedin size={20} />
+            </a>
+            <a href={heroContent.social.github} target="_blank" rel="noopener noreferrer" className="social-btn" title="GitHub">
+              <FaGithub size={20} />
+            </a>
           </div>
         </section>
         <hr className="section-divider" />
