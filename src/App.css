@@ -171,6 +171,12 @@
   font-weight: normal;
 }
 
+.section-divider {
+  border: none;
+  border-top: 1px solid #313244;
+  margin: 24px 0;
+}
+
 .experience-section,
 .award-section {
   margin-bottom: 24px;
@@ -226,16 +232,78 @@
   margin: 0 0 8px;
 }
 
-.description,
-.award-description {
+.description-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.description-list li {
   color: #cdd6f4;
   font-size: 13px;
-  margin: 0;
   line-height: 1.5;
+  margin-bottom: 8px;
+  padding-left: 16px;
+  position: relative;
+}
+
+.description-list li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #89b4fa;
 }
 
 .language-section {
   margin-bottom: 24px;
+}
+
+.education-section {
+  margin-bottom: 24px;
+}
+
+.education-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.education-item {
+  background: #181825;
+  padding: 16px;
+  border-radius: 8px;
+  border-left: 3px solid #cba6f7;
+}
+
+.education-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.institution {
+  color: #cba6f7;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.degree {
+  color: #a6e3a1;
+  font-size: 14px;
+  margin: 0 0 8px;
+}
+
+.education-description {
+  color: #cdd6f4;
+  font-size: 12px;
+  margin: 0;
+}
+
+.award-description {
+  color: #cdd6f4;
+  font-size: 12px;
+  margin: 0;
 }
 
 .skills-section {
