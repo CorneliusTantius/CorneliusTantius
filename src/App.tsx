@@ -27,7 +27,7 @@ function App() {
     {
       company: "SingaPay",
       role: "Senior Full Stack Engineer (SDE-3)",
-      period: "Mar 2026 - Present",
+      period: "2026 - Present",
       description: [
         "Implemented major Virtual Account Core generation algorithm enhancement to reduce VA generation process time, latency and database load (2-3 minutes) to less than 1s generation time.",
         "Implemented pending transaction handling to reduce manual operational contact rate up to ~90%.",
@@ -37,7 +37,7 @@ function App() {
     {
       company: "Traveloka",
       role: "Software Engineer (SDE-2)",
-      period: "2021 - 2023",
+      period: "2024 - 2026",
       description: [
         "Built and maintain scalable backend services across Ground Transport (airport transfers, car rentals), Travel Activities (attractions, tours, experiences), and Cruise Booking domains all using Java Spring, Terraform & AWS.",
         "Drove technical excellence and cost efficiency by refactoring legacy systems and optimizing existing workflows, allowing less development complexity on 2 major product project and several subprojects (~30% on discoverability and ~20% on buyability).",
@@ -49,7 +49,7 @@ function App() {
     {
       company: "Kamoro Maxima Integra",
       role: "Junior Developer",
-      period: "2019 - 2021",
+      period: "2023 - 2024",
       description: [
         "Developed backend system for PT Freeport Indonesia to assist mining operational audit, monitor, and safety protocol to reduce casualty and audit time for mining tools and machines.",
         "Increased operational tracking system capability up to 60%+ at the time allowing operational staff and managers to do less manual audit and increase workload efficiency on mining site.",
@@ -59,7 +59,7 @@ function App() {
     {
       company: "IT Division - Bina Nusantara University",
       role: "Software Engineer (SDE-2)",
-      period: "Mar 2020 - Oct 2023",
+      period: "2020 - 2023",
       description: [
         "Started off from Associate Member and wave through Junior Software Engineer then Software Engineer throughout college years, internship and after graduate.",
         "Developed backend systems and automation for Zoom API integration during covid, allowing attendance system to shift 100% by system during class, and later scale up the system to enable wifi-attendance checking in campus.",
