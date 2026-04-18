@@ -5,7 +5,7 @@ Ex. Software Engineer [@Traveloka](https://www.traveloka.com/en-id) · Computer 
 
 
 ### Contacts:
-[<img align="left" alt="Cornelius Tantius | Website" width="22px" src="https://raw.githubusercontent.com/PardeepInfyom/inffyom-design/master/public/assets/website.png" />][website]
+[<img align="left" alt="Cornelius Tantius | Website" width="22px" src="https://github.com/favicon.ico" />][website]
 [<img align="left" alt="Cornelius Tantius | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
 [<img align="left" alt="Cornelius Tantius | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="Cornelius Tantius | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
