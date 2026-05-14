@@ -1,8 +1,8 @@
 # Full Stack Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Building backend services & production systems across fintech, travel, and education.
+Engineer at **CekatAI**, building backend services, infrastructure, and production architecture — with a bit of frontend — across AI, travel, fintech, and education.
 
-Ex. Software Engineer [@Traveloka](https://www.traveloka.com/en-id) · Computer Science Graduate (AI) [@Binus University](https://binus.ac.id/)
+Former Software Engineer at [Traveloka](https://www.traveloka.com/en-id) · Computer Science graduate in AI from [Binus University](https://binus.ac.id/)
 
 ## Contacts
 [<img align="left" alt="Cornelius Tantius | Website" width="22px" src="https://github.com/favicon.ico" />][website]
