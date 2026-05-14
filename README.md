@@ -8,8 +8,22 @@ Former Software Engineer at [Traveloka](https://www.traveloka.com/en-id) · Comp
 
 Core stack and tools I work with most often.
 
+**Languages**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,bash,c,cpp,docker,git,java,js,linux,mongodb,nodejs,postgres,python,redis,ts&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp&perline=6" height="42" />
+</p>
+
+**Backend & Data**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,redis&perline=4" height="42" />
+</p>
+
+**Infra & Platform**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,linux,bash&perline=6" height="42" />
 </p>
 
 ## Connect
