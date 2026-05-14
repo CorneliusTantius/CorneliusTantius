@@ -206,28 +206,15 @@
 .hero-skills {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
 }
 
 .skill-tag {
   background: #313244;
-  color: #cdd6f4;
-  padding: 10px 12px;
-  border-radius: 8px;
-  font-size: 12px;
-  min-width: 76px;
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-  border: 1px solid #45475a;
-}
-
-.skill-icon {
-  width: 28px;
-  height: 28px;
-  display: block;
+  color: #89b4fa;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 14px;
 }
 
 .section-title {
