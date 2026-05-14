@@ -17,8 +17,16 @@ Ex. Software Engineer [@Traveloka](https://www.traveloka.com/en-id) · Computer 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CorneliusTantius&theme=dracula)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CorneliusTantius&theme=dracula" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CorneliusTantius&theme=dracula" width="49%" />
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CorneliusTantius&theme=dracula" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CorneliusTantius&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
 [website]: https://corneliustantius.github.io/
 [mail]: mailto:corneliustantius.ct@gmail.com
