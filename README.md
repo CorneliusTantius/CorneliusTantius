@@ -1,17 +1,13 @@
 # Full Stack Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Engineer at [**CekatAI**](https://cekat.ai), building backend services, infrastructure, and production architecture — with a bit of frontend — across AI, travel, fintech, and education.
+Engineer at [**CekatAI**](https://cekat.ai), building backend services, infrastructure, and production architecture — with a bit of frontend — across AI, travel, fintech, and education. Linux & open-source enthusiast.
 
 Former Software Engineer at [Traveloka](https://www.traveloka.com/en-id) · Computer Science graduate in AI from [Binus University](https://binus.ac.id/)
 
 ## Contacts
-[<img align="left" alt="Cornelius Tantius | Website" width="22px" src="https://github.com/favicon.ico" />][website]
-[<img align="left" alt="Cornelius Tantius | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
-[<img align="left" alt="Cornelius Tantius | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="Cornelius Tantius | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+- [Website][website]
+- [Email][mail]
 
-<br />
-<br />
 
 ## GitHub Stats
 
