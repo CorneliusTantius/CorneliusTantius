@@ -1,13 +1,13 @@
 # Full Stack Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Engineer at [**CekatAI**](https://cekat.ai), building backend services, infrastructure, and production architecture — with a bit of frontend — across AI, travel, fintech, and education. Linux & open-source enthusiast.
+Engineer at [**CekatAI**](https://cekat.ai), building backend services, infrastructure, and production architecture — with a bit of frontend — across AI, travel, fintech, and education.
 
-Former Software Engineer at [Traveloka](https://www.traveloka.com/en-id) · Computer Science graduate in AI from [Binus University](https://binus.ac.id/)
+Former Software Engineer at [Traveloka](https://www.traveloka.com/en-id) · Computer Science graduate in AI from [Binus University](https://binus.ac.id/) · Linux & open-source enthusiast
 
-## Contacts
+## Connect
 - [Website][website]
 - [Email][mail]
-
+- [LinkedIn][linkedin]
 
 ## GitHub Stats
 
