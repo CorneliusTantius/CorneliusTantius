@@ -19,9 +19,9 @@ function App() {
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝ ╚═════╝ ╚══════╝`;
  const heroContent = {
     name: "Tantius Cornelius",
-    title: "Backend & Infrastructure Engineer",
-    bio: "Engineer at CekatAI building backend services, infrastructure, and production architecture across AI, travel, fintech, and education. I like turning messy product problems into reliable systems: clean APIs, practical automation, observable services, and the occasional tiny frontend when the UI needs a little love. Linux and open-source enthusiast.",
-    skills: ["TypeScript", "Node.js", "Python", "Docker", "Linux", "AWS"],
+    title: "Full Stack Developer",
+    bio: "Software Engineer experienced in building backend services and production systems across education, consulting, fintech, and travel sectors. Skilled in backend development, API integration, system reliability, and well versed developing with AI bsed tools.",
+    skills: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "Docker"],
     social: {
       email: "corneliustantius.ct@gmail.com",
       linkedin: "https://linkedin.com/in/corneliustantius",
