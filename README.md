@@ -15,7 +15,13 @@ Ex. Software Engineer [@Traveloka](https://www.traveloka.com/en-id) · Computer 
 
 ## GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CorneliusTantius&theme=dracula)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CorneliusTantius&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
