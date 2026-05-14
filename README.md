@@ -1,7 +1,7 @@
-# Full Stack Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cornelius Tantius.
 
 Engineer at [**CekatAI**](https://cekat.ai), building backend services, infrastructure, and production architecture — with a bit of frontend — across AI, travel, fintech, and education.
-
+Tant
 Former Software Engineer at [Traveloka](https://www.traveloka.com/en-id) · Computer Science graduate in AI from [Binus University](https://binus.ac.id/) · Linux & open-source enthusiast
 
 ## Languages & Tools
